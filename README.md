@@ -13,3 +13,5 @@ The datasets used in this project were
 
 ## Results and Conclusion
 After analyzing the information, a conclusion can be drawn that urban cities have the largest number of rides. The number of drivers are also far greater in Urban cities compared to the other two. Urban cities make around 60% of the total fares collected which means that Pyber should look towards focusing on other urban cities as opposed to investing in suburban or rural areas. 
+![Line Charts](/analysis/Fig1.png)
+
